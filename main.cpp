@@ -5,7 +5,7 @@ int main()
 {
 
 	cout << "This is git";
-	cout << "Git is fun edited by master";
+	cout << "Modified";
 
 
 
